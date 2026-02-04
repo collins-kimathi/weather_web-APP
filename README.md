@@ -32,7 +32,9 @@
  <img src="ss/bad.png" width="100%">
 
  ** for more information contact me at : collinskimathi49@gmail.com
+ 
  ** for a live demo visit : https://weather-web-app-theta-lovat.vercel.app/
+
 
 
 
