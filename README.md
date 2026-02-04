@@ -29,5 +29,6 @@
 * when entered city did'nt matched with data
  <img src="ss/bad.png" width="100%">
 
+*for a live view visit: https://weather-web-app-theta-lovat.vercel.app/
 
 
