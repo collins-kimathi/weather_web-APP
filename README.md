@@ -4,6 +4,8 @@
 
 ### This  web project done in html,css ,js
 
+
+
 ### Features of the project.
 
 * It provide dynamic weather data like temp, min max temp etc.
@@ -28,6 +30,9 @@
 
 * when entered city did'nt matched with data
  <img src="ss/bad.png" width="100%">
+
+ ** for more information contact me at : collinskimathi49@gmail.com
+
 
 
 
