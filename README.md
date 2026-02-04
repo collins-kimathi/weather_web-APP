@@ -4,6 +4,8 @@
 
 ### This  web project done in html,css ,js
 
+
+
 ### Features of the project.
 
 * It provide dynamic weather data like temp, min max temp etc.
@@ -29,6 +31,11 @@
 * when entered city did'nt matched with data
  <img src="ss/bad.png" width="100%">
 
-*for a live view visit: https://weather-web-app-theta-lovat.vercel.app/
+ ** for more information contact me at : collinskimathi49@gmail.com
+
+ 
+
+
+
 
 
